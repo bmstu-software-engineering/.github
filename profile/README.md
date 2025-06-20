@@ -18,8 +18,9 @@
 
 ## Общие материалы
 
-### 📚 Сборники материалов по всему курсула
-- [**4th_semester_BMSTU**](https://github.com/bmstu-software-engineering/fork-RudyCentipede-4th_semester_BMSTU) `fork` `RudyCentipede` `common` - Много полезного по 4му семестру с гайдами, литературой и кошкодевочками
+### 📚 Сборники материалов по всему курсу
+- [**4th_semester_BMSTU**](https://github.com/bmstu-software-engineering/fork-RudyCentipede-4th_semester_BMSTU) `fork` `RudyCentipede` `common` - Раскрывает каждый жёский предмет 4го семестра. Ведь это с референцы, гайды, литература и кошкодевочки ♥️ 
+
 - [**IU7-Bachelor-Course**](https://github.com/bmstu-software-engineering/fork-Mansurow-IU7-Bachelor-Course) `general` - 🐳 Курс Бакалавриата кафедры ИУ7 "Программной инженерии" в МГТУ имени Н. Э. Баумана (2020 - 2024 гг.)
 - [**Discussions**](https://github.com/bmstu-software-engineering/discussions) - Обсуждения и вопросы
 
