@@ -43,7 +43,7 @@
 - [**bmstu**](https://github.com/bmstu-software-engineering/fork-maxerMU-bmstu) `fork` `maxerMU` - bmstu iu7 labs
 - [**iu7**](https://github.com/bmstu-software-engineering/fork-dKosarevsky-iu7) `fork` `dKosarevsky` - Различные материалы по обучению в ИУ7
 - [**BMSTU**](https://github.com/bmstu-software-engineering/fork-Juliasunn-BMSTU) `fork` `Juliasunn` - Университетские лабораторные работы
-
+- [lks-storage][https://github.com/bmstu-software-engineering/lks-storage] `lks` - Дампы ЛКС-а 
 ## 1 курс
 
 ### 🐍 Python (1-2 семестр)
